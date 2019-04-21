@@ -24,3 +24,20 @@ Esse trabalho está dividido em 3 etapas:
 > **Jones Dhyemison Quito de Oliveira** - 201510695 <br/>
 > **Josué Gomes Queiroz** - 201506635 <br/>
 
+## Configurar o projeto GIT
+##### Para baixar o projeto:
+	git clone https://github.com/jonassuncao/QualidadeSoftware.git
+##### Para configurar a branch dev:
+	git branch dev 
+##### Para mudar para branch dev:
+	git checkout dev 
+##### Para pegar alterações do projeto:
+	git pull
+##### Para adicionar mudanças no storage:
+	git add . 
+##### Para dar commit do storage:
+	git comming -m "<comentário>"
+##### Para enviar mudanças do storage para o GitHub:
+	git push origin dev
+
+
