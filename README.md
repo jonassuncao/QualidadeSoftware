@@ -18,11 +18,11 @@ Esse trabalho está dividido em 3 etapas:
 
 
 ## Integrantes do grupo
-> **David Antônio Teixeira de Moraes Barros** - *davidb4rros@gmail.com* - 201606144 
-> **Diana Aparecida Osório Barros** - *dianaosorio468@gmail.com* - 201613262 
-> **Jônathas Assunção Alves** - *jaa020399@gmail.com* - 201613279 
-> **Jones Dhyemison Quito de Oliveira** - *jonesdhy@hotmail.com* - 201510695 
-> **Josué Gomes Queiroz** - *josuequeiroz@inf.ufg.br* - 201506635 
+> **David Antônio Teixeira de Moraes Barros** - *davidb4rros@gmail.com* - 201606144 <br/>
+> **Diana Aparecida Osório Barros** - *dianaosorio468@gmail.com* - 201613262 <br/>
+> **Jônathas Assunção Alves** - *jaa020399@gmail.com* - 201613279 <br/>
+> **Jones Dhyemison Quito de Oliveira** - *jonesdhy@hotmail.com* - 201510695 <br/>
+> **Josué Gomes Queiroz** - *josuequeiroz@inf.ufg.br* - 201506635 <br/>
 
 ## Configurar o projeto GIT
 ##### Para clonar o projeto:
