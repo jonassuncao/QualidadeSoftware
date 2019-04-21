@@ -10,11 +10,11 @@ Esse trabalho está dividido em 3 etapas:
 	
 ### **Etapa 2: Planejamento de avaliações de Garantia da Qualidade**
 
-	Entregável desta etapa: Plano de Garantia da Qualidade com checklists de avaliação.
+> [Plano de Garantia da Qualidade com checklists de avaliação.docx](/Etapa%202/Plano%20de%20Garantia%20da%20Qualidade%20com%20checklists%20de%20avaliação.docx "Entregável da Etapa 2")
 
 ### **Etapa 3: Avaliação da qualiade de um projeto executado com base em um processo definido**
 
-	Entregável desta etapa: Registro das avaliações realizadas e o registro das não-conformidades encontradas.
+> [Registro das avaliações realizadas e o registro das não-conformidades encontradas.docx](/Etapa%203/Registro%20das%20avaliações%20realizadas%20e%20o%20registro%20das%20não-conformidades%20encontradas.docx "Entregável da Etapa 3")
 
 
 ## Integrantes do grupo
