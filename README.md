@@ -6,7 +6,7 @@ Esse trabalho está dividido em 3 etapas:
 
 ### **Etapa 1: Definição de uma estrutura de processo de Garantia da Qualidade**
 
-	Entregável desta etapa: Estrutura de processo de Garantia da Qualidade.
+	>[Estrutura de processo de Garantia da Qualidade.docx](/Etapa%201/Estrutura%20de%20processo%20de%20Garantia%20da%20Qualidade.docx "Entregável da Etapa 1")
 	
 ### **Etapa 2: Planejamento de avaliações de Garantia da Qualidade**
 
