@@ -18,24 +18,24 @@ Esse trabalho está dividido em 3 etapas:
 
 
 ## Integrantes do grupo
-> **David Antônio Teixeira de Moraes Barros** - 201606144 <br/>
-> **Diana Aparecida Osório Barros** - 201613262 <br/>
-> **Jônathas Assunção Alves** - 201613279 <br/>
-> **Jones Dhyemison Quito de Oliveira** - 201510695 <br/>
-> **Josué Gomes Queiroz** - 201506635 <br/>
+> **David Antônio Teixeira de Moraes Barros** - *davidb4rros@gmail.com* - 201606144 
+> **Diana Aparecida Osório Barros** - *dianaosorio468@gmail.com* - 201613262 
+> **Jônathas Assunção Alves** - *jaa020399@gmail.com* - 201613279 
+> **Jones Dhyemison Quito de Oliveira** - *jonesdhy@hotmail.com* - 201510695 
+> **Josué Gomes Queiroz** - *josuequeiroz@inf.ufg.br* - 201506635 
 
 ## Configurar o projeto GIT
-##### Para baixar o projeto:
+##### Para clonar o projeto:
 	git clone https://github.com/jonassuncao/QualidadeSoftware.git
 ##### Para configurar a branch dev:
 	git branch dev 
 ##### Para mudar para branch dev:
 	git checkout dev 
-##### Para pegar alterações do projeto:
+##### Para pegar alterações do GitHub
 	git pull
 ##### Para adicionar mudanças no storage:
 	git add . 
-##### Para dar commit do storage:
+##### Para dar commit no storage:
 	git comming -m "<comentário>"
 ##### Para enviar mudanças do storage para o GitHub:
 	git push origin dev
