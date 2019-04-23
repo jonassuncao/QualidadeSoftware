@@ -1,0 +1,15 @@
+Etapa 1: Definição de uma estrutura de processo de Garantia da Qualidade
+ 
+A estrutura de processo deve ser aderente a área de processo de Garantia da Qualidade do MPS.BR nível F e produzir:
+ 
+1 - Definir as Políticas organizacionais que se aplicam ao processo. 
+2 - Desenhar o Processo com suas atividades e dependências. Obrigatoriamente deve ser utilizada a notação BPMN. 
+3 - Descrever as Atividades (entradas, tarefas, saídas, participantes) do processo.(a partir do BPMN)  
+4 - Definir as Ferramentas de apoio a execução do processo. (tirar dúvida com o professor)
+5 - Especificar os Templates que devem ser utilizados para execução das atividades (deve possuir orientações para seu preenchimento).(já está montado, falta especificar) 
+6 - Definir as principais Comunicações que devem ocorrer durante a execução do processo (Emissor, Receptores, Mensagem, Meio de Comunicação e Quando).(Tranquilo)
+7 - Definir os Papeis envolvidos na execução das atividades do processo (conhecimentos requeridos, responsabilidades e recursos). (Pegar a partir do BPMN montado).
+8 - Definir 2 indicadores para cada processo (Objetivo, Forma de Coleta, Armazenamento, Análise e Comunicação).(confirmar com o professor)
+
+Entregável desta etapa: Estrutura de processo de Garantia da Qualidade.
+
