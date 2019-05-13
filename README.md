@@ -10,7 +10,7 @@ Esse trabalho está dividido em 3 etapas:
 	
 ### **Etapa 2: Planejamento de avaliações de Garantia da Qualidade**
 
-> [Checklist Consistência de Requisitos (CCR)](https://github.com/jonassuncao/QualidadeSoftware/blob/dev/Etapa%202/Checklist%20Consist%C3%AAncia%20de%20Requisitos%20(CCR).pdf "Entregável da Etapa 2")
+> [Checklist Consistência de Requisitos (CCR)](https://github.com/jonassuncao/QualidadeSoftware/blob/dev/Etapa%202/Checklist%20Consist%C3%AAncia%20de%20Requisitos%20(CCR).pdf "Entregável da Etapa 2") <br/>
 > [Checklist Gerência de Projeto (CGP)](https://github.com/jonassuncao/QualidadeSoftware/blob/dev/Etapa%202/Checklist%20Ger%C3%AAncia%20de%20Projeto%20(CGP).pdf "Entregável da Etapa 2")
 
 ### **Etapa 3: Avaliação da qualiade de um projeto executado com base em um processo definido**
