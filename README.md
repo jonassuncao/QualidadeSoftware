@@ -15,7 +15,8 @@ Esse trabalho está dividido em 3 etapas:
 
 ### **Etapa 3: Avaliação da qualiade de um projeto executado com base em um processo definido**
 
-> [Registro das avaliações realizadas e o registro das não-conformidades encontradas.docx](/Etapa%203/Registro%20das%20avaliações%20realizadas%20e%20o%20registro%20das%20não-conformidades%20encontradas.docx "Entregável da Etapa 3")
+> [Aplicação de Checklist Gerência de Requisitos (CGR)](https://github.com/jonassuncao/QualidadeSoftware/blob/dev/Etapa%203/Aplica%C3%A7%C3%A3o%20de%20Checklist%20Ger%C3%AAncia%20de%20Requisitos.xlsx?raw=true "Entregável da Etapa 3") <br/>
+> [Aplicação de Checklist Gerência de Projeto (CGP)](https://github.com/jonassuncao/QualidadeSoftware/blob/dev/Etapa%203/Aplica%C3%A7%C3%A3o%20de%20Checklist%20Ger%C3%AAncia%20de%20Projeto.xlsx?raw=true "Entregável da Etapa 3")
 
 
 ## Integrantes do grupo
